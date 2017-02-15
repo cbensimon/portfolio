@@ -1,8 +1,17 @@
 # Preview
 
-[Renzo Piano Building Workshop](https://storage.googleapis.com/charlesbensimon/rpbw-preview.mov)
+## Renzo Piano Building Workshop
+[Video](https://storage.googleapis.com/charlesbensimon/rpbw-preview.mov)
 
-[Chanel Haute Joaillerie](https://storage.googleapis.com/charlesbensimon/chanel-preview.mov)
+- ES2015 / ReactJS
+- Contentful API
+
+## Chanel Haute Joaillerie
+[Video](https://storage.googleapis.com/charlesbensimon/chanel-preview.mov)
+
+- Chanel moodboard template base
+- jQuery
+- Sass
 
 # Production
 
