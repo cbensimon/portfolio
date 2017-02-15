@@ -26,3 +26,5 @@ L'url `/explore` contient l'application Angular la plus importante
 
 # Preview
 
+[Renzo Piano Building Workshop](https://storage.googleapis.com/charlesbensimon/rpbw-preview.mov)
+[Chanel Haute Joaillerie](https://storage.googleapis.com/charlesbensimon/chanel-preview.mov)
