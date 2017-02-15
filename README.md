@@ -21,6 +21,7 @@
  - Drupal Theme
  - ES2015 / AngularJS
  - Sass
+ 
 L'url `/explore` contient l'application Angular la plus importante
 
 # Preview
