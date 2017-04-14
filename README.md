@@ -12,6 +12,7 @@
 ## Renzo Piano Building Workshop
 [rpbw.com](http://www.rpbw.com/)
 
+- Avril 2017
 - ES2015 / ReactJS
 - Contentful API
 
