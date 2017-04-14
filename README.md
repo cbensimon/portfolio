@@ -1,11 +1,5 @@
 # Preview
 
-## Renzo Piano Building Workshop
-[Video](https://storage.googleapis.com/charlesbensimon/rpbw-preview.mov)
-
-- ES2015 / ReactJS
-- Contentful API
-
 ## Chanel Haute Joaillerie
 [Video](https://storage.googleapis.com/charlesbensimon/chanel-preview.mov)
 
@@ -14,6 +8,12 @@
 - Sass
 
 # Production
+
+## Renzo Piano Building Workshop
+[rpbw.com](http://www.rpbw.com/)
+
+- ES2015 / ReactJS
+- Contentful API
 
 ## Cartier Women's Initiative Awards
 [cartierwomensinitiative.com](https://www.cartierwomensinitiative.com/)
